@@ -1,6 +1,13 @@
+body {
+    background-color: #2a2c2b;
+}
+
 h1 {
     color: purple;
     text-align: center;
     font-family: "Copperplate", sans-serif;
 }
 
+a {
+    color: purple;
+}
